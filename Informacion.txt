@@ -1,0 +1,15 @@
+Integrantes:
+
+Juan Pablo Arias Remolina - 2204251
+Cristian Stivens Villarreal Parra - 2204132
+
+Links:
+
+Video: https://www.youtube.com/watch?v=r1ZWdmPtZwc
+BackEnd:https://github.com/cristianstvp/BackEnd_BiblioPlus.git
+FrontEnd:https://github.com/cristianstvp/Tienda_BiBlioPlus_react.git
+
+Informacion:
+En el BackEnd Cambiar el usuario y la contraseña por los respectivos de su entorno MySQL.
+
+En el FrondEnd Leer el Readme para instalar todas las dependencias necesarias.
